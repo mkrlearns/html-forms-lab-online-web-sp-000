@@ -6,6 +6,6 @@ form * {
 
 #checkbox {
   display:inline;
-  text-align: :left;
+  float: :left;
 
 }
