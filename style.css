@@ -5,7 +5,7 @@ form * {
 }
 
 div {
-  display: flex;
+  display: block;
 }
 
 #checkbox {
